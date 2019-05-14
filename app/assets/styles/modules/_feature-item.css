@@ -10,7 +10,7 @@
         display: block;
         margin: 0 auto;
         
-        @mixin arSmall {
+        @mixin atSmall {
             position: absolute;
             left: 0;
         }
