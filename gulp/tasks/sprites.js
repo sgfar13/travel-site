@@ -12,7 +12,7 @@ var config = {
     },
     mode: {
         css: {
-            vaiables: {
+            variables: {
                 replaceSvgWithPng: function() {
                     return function(sprite, render) {
                         return render(sprite).split('.svg').join('.png');
@@ -22,7 +22,7 @@ var config = {
             sprite: 'sprite.svg',
             render : {
                 css: {
-                    template: './gulp/templates/sprite.css'
+                    template: './gulp/templates/sprite.css',
                 }
             }
         }

@@ -2,10 +2,10 @@
 /*   Instead edit gulp/templates/sprite*/
 
         .icon {
-            background-image: url('/assets/images/sprites/sprite-cbdfe7ac.svg');
+            background-image: url('../../assets/images/sprites/sprite-cbdfe7ac.svg');
         }
         .no-svg .icon {
-            background-image: url('/assets/images/sprites/sprite-cbdfe7ac.svg');
+            background-image: url('../../assets/images/sprites/sprite-cbdfe7ac.png');
         }
 
    .icon--clear-view-escapes {
@@ -79,5 +79,3 @@
        height: 44px;
        background-position:37.76931216931217% 45.917910447761194%;
    }
-
-
