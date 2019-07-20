@@ -477,6 +477,7 @@ a {
 
 .large-hero__image {
         display: block;
+        width: 100%;
     }
 
 .large-hero__text-content {
